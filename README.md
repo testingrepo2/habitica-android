@@ -2,7 +2,7 @@
 
 [Habitica](https://habitica.com) is an open source habit building program which treats your life like a Role Playing Game. Level up as you succeed, lose HP as you fail, earn money to buy weapons and armor. This repository is related to the Android Native Application.
 
-It's also on Google Play:
+It's also on Google Play: 
 
 <a href="https://play.google.com/store/apps/details?id=com.habitrpg.android.habitica">
   <img alt="Get it on Google Play"
